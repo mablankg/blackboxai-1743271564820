@@ -71,8 +71,8 @@ document.addEventListener('DOMContentLoaded', () => {
             port: 587,
             secure: false,
             auth: {
-                user: 'aleeph.email@gmail.com',
-                pass: 'vgno xciq zaam oqtb'
+                user: 'xxxxxxxxxx@gmail.com',
+                pass: 'xxxx xxxx xxxx xxxx'
             }
         };
 
